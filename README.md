@@ -1,4 +1,8 @@
-pfft
-====
+Personal Financial Fundamentals Tracker (pfft)
+==============================================
 
-Personal Finance Fundamentals Tracking
+* Money In
+* Money Out
+* Savings Goals
+* Assets
+* Liabilities
